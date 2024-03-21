@@ -9,7 +9,7 @@
   "license": "MIT",
   "scripts": {
     "build": "vite build",
-    "dev": "vite --port 5433",
+    "dev": "vite --port 5438",
     "preview": "vite preview",
     "lint": "eslint .",
     "test": "vitest",
@@ -19,6 +19,7 @@
   "dependencies": {
     "@vueuse/core": "^10.8.0",
     "lodash-es": "^4.17.21",
+    "pinia": "^2.1.7",
     "vue": "^3.4.20",
     "vue-router": "^4.3.0"
   },

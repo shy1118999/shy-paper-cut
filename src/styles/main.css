@@ -9,3 +9,11 @@ body,
 html.dark {
   background: #121212;
 }
+
+.input {
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
